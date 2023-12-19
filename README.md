@@ -1,16 +1,22 @@
-### Hi there 👋
+### About me
 
-<!--
-**ajy25/ajy25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hi! I'm Andrew, a third year undergraduate student at Brown University studying Applied Mathematics and Computer Science.** My research interests fall within the realms of statistics, machine learning, and computational biology—I am passionate about leveraging data to improve medicine and healthcare. 
 
-Here are some ideas to get you started:
+**Currently...**
+- I am a research intern at Regeneron. I develop machine learning models to predict patient outcomes for AI-powered clinical trials. 
+- I am a student researcher for the Department of Biostatistics at Brown University under the mentorship of Professor Ying Ma. I am researching machine learning algorithms for a variety of inference tasks for spatial transcriptomics data. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Previously...**
+- I was a student researcher at the NSF-Simons Center for Quantitative Biology. I investigated image segmentation and conformal mapping techniques for the rapid analysis of _C. elegans_ images. I was mentored by Professor Erik Andersen and Professor Niall Mangan. 
+- I was a quantitative biology NSF REU research fellow at Northwestern University where I was mentored by Professor Erik Andersen and Dr. Gaotian Zhang. I worked on differential expression analysis of transposons in _C. elegans_.
+
+**Additionally...**
+- I am actively involved in teaching at Brown University:
+  - TA, Machine Learning - Spring 2024
+  - TA, Statistical Inference - Spring 2024
+  - TA, Computational Probability & Statistics - Fall 2023
+  - Tutor, Statistical Inference - Spring 2022, Fall 2021
+- I am the concertmaster of the Providence Medical Orchestra.
+
+I'd love to get in touch! My email is [a_yang@brown.edu](a_yang@brown.edu). 
+
