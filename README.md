@@ -15,8 +15,7 @@
   - TA, Machine Learning - Spring 2024
   - TA, Statistical Inference - Spring 2024
   - TA, Computational Probability & Statistics - Fall 2023
-  - Tutor, Statistical Inference - Spring 2022, Fall 2021
-- I am the concertmaster of the Providence Medical Orchestra.
+  - Tutor, Statistical Inference - Spring 2023, Fall 2022
 
 I'd love to get in touch! My email is [a_yang@brown.edu](a_yang@brown.edu). 
 
