@@ -4,11 +4,11 @@
 
 **Currently...**
 - I am a research intern at Regeneron. I develop machine learning models to predict patient outcomes for AI-powered clinical trials. 
-- I am a student researcher for the Department of Biostatistics at Brown University under the mentorship of Professor Ying Ma. I am researching machine learning algorithms for a variety of inference tasks for spatial transcriptomics data. 
+- I am a student researcher for the Department of Biostatistics at Brown University. I am researching machine learning algorithms for a variety of inference tasks for spatial transcriptomics data. 
 
 **Previously...**
-- I was a student researcher at the NSF-Simons Center for Quantitative Biology. I investigated image segmentation and conformal mapping techniques for the rapid analysis of _C. elegans_ images. I was mentored by Professor Erik Andersen and Professor Niall Mangan. 
-- I was a quantitative biology NSF REU research fellow at Northwestern University where I was mentored by Professor Erik Andersen and Dr. Gaotian Zhang. I worked on differential expression analysis of transposons in _C. elegans_.
+- I was a student researcher at the NSF-Simons Center for Quantitative Biology. I investigated image segmentation and conformal mapping techniques for the rapid analysis of _C. elegans_ images. 
+- I was a quantitative biology NSF REU research fellow at Northwestern University where I worked on differential expression analysis of transposons in _C. elegans_.
 
 **Additionally...**
 - I am actively involved in teaching at Brown University:
