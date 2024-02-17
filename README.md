@@ -1,6 +1,6 @@
 ### About me
 
-**Hi! I'm Andrew, a third year undergraduate student at Brown University studying Applied Mathematics and Computer Science.** My research interests fall within the realms of statistics, machine learning, and computational biology—I am passionate about leveraging data to improve medicine and healthcare. 
+**Hi! I'm Andrew, a junior at Brown University studying applied math and computer science.** My research interests fall within the realms of statistics, machine learning, and computational biology—I am passionate about leveraging data to improve medicine and healthcare. 
 
 **Currently...**
 - I am an intern at Regeneron. I develop machine learning models to predict patient outcomes for AI-powered clinical trials. 
@@ -17,5 +17,5 @@
   - TA, Computational Probability & Statistics - Fall 2023
   - Tutor, Statistical Inference - Spring 2023, Fall 2022
 
-I'd love to get in touch! My email is [andrew_j_yang@brown.edu](andrew_j_yang@brown.edu). 
+I'd love to get in touch! My email is [andrew_j_yang@brown.edu](andrew_j_yang@brown.edu). Learn more about me here: [ajy25.github.io](ajy25.github.io). 
 
