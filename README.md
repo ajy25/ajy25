@@ -17,5 +17,5 @@
   - TA, Computational Probability & Statistics - Fall 2023
   - Tutor, Statistical Inference - Spring 2023, Fall 2022
 
-I'd love to get in touch! My email is [andrew_j_yang@brown.edu](andrew_j_yang@brown.edu). Learn more about me here: [ajy25.github.io](https://ajy25.github.io/). 
+I'd love to get in touch! My email is [andrew_j_yang@brown.edu](mailto:andrew_j_yang@brown.edu?subject=[GitHub]%20Source%20Han%20Sans). Learn more about me here: [ajy25.github.io](https://ajy25.github.io/). 
 
